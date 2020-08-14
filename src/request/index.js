@@ -1,10 +1,13 @@
 import axios from 'axios'
 import { Toast } from 'antd-mobile'
 
+
 const $http = axios.create({
   //baseURL: '',
   timeout: 10000,
-  headers: {}
+  headers: {
+    'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'
+  },
 })
 
 // 添加响应拦截器

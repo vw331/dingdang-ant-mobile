@@ -9955,6 +9955,11 @@ qs@6.7.0:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.7.0.tgz#41dc1a015e3d581f1621776be31afb2876a9b1bc"
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
+qs@^6.9.4:
+  version "6.9.4"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.9.4.tgz#9090b290d1f91728d3c22e54843ca44aea5ab687"
+  integrity sha512-A1kFqHekCTM7cz0udomYUoYNWjBebHm/5wzU/XqrBRBNWectVH0QIiN+NEcZ0Dte5hvzHwbr8+XQmguPhJ6WdQ==
+
 qs@~6.5.2:
   version "6.5.2"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
@@ -10255,6 +10260,11 @@ react-native-swipeout@^2.2.2:
     create-react-class "^15.6.0"
     prop-types "^15.5.10"
     react-tween-state "^0.1.5"
+
+react-router-cache-route@^1.9.0:
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/react-router-cache-route/-/react-router-cache-route-1.9.0.tgz#0a661db5dd5ddbd217bed78749ec63e82347325d"
+  integrity sha512-RimaHa6qz4RcT9H30jwLTw7npTCGxuQcc6IpL/u1Lq+6tbHhSqeh0VY2HLZmBppdOmKTHQhxuuR4AFVaC/ULOg==
 
 react-router-dom@^5.2.0:
   version "5.2.0"
